@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# My own stuff
+journal/*
+tasks-ready/*
+
+# silly script that grabs files from my Downloads directory (am lazy)
+grab_task_ready_files.py
